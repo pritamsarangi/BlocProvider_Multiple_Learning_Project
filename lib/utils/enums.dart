@@ -1,0 +1,1 @@
+enum PostStatus {loading, suecss, faliure}
